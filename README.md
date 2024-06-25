@@ -1,7 +1,7 @@
 
 <p align="center">
 <img 
-    src="/home/gabriela_torres/GabrielaTorres/estudos - Copia/projetos/podcast_projeto_dio/imagens/podcastanfitria.jpeg"
+    src="https://github.com/gabistorres85/podcast_projeto_dio/blob/main/imagens/podcastanfitria.jpeg"
     width="200"  
 />
 </p>
